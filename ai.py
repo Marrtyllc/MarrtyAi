@@ -1,7 +1,7 @@
 import openai
 import gradio
 
-openai.api_key = "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"
+openai.api_key = ""
 
 messages = [{"role": "system", "content": "Craft an engaging article with a unique perspective. Choose a captivating topic, infuse your distinct voice, use creative writing techniques, provide fresh insights, and conclude impactfully. Revise for clarity and coherence. Aim for memorable, thought-provoking content."}]
 
